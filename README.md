@@ -2,9 +2,8 @@
 
 UniPage is an AI-powered one-prompt website builder that generates full HTML landing pages using just a description. Powered by the **Gemini API**, it allows you to generate, preview, and download single-page websites instantly.
 
-![UniPage UI Screenshot](https://your-screenshot-url.com) <!-- Replace with actual image if available -->
+![UniPage Screenshot](./UniPage/screenshot/UniPage.png)
 
----
 
 ## Features
 
